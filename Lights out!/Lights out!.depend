@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465201663 source:g:\acm\lights out!\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

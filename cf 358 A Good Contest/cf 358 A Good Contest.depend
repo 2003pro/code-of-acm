@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1465925117 source:g:\acm\cf 358 a good contest\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<string>
+

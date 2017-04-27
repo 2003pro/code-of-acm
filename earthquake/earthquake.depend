@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1460601631 source:g:\acm\earthquake\main.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<algorithm>
+

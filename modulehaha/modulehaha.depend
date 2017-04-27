@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1465786378 source:g:\acm\modulehaha\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+

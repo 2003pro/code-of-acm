@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1460891599 source:g:\acm\卿学姐与公主\main.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+

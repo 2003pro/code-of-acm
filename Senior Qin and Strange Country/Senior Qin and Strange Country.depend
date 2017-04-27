@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461763829 source:g:\acm\senior qin and strange country\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

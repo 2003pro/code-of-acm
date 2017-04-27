@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1460619156 source:g:\acm\great qiushi and intergal tree\main.cpp
+	<cstdio>
+	<string>
+	<iostream>
+

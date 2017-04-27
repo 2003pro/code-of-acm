@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1468746989 source:g:\acm\poj 2431 expedition\main.cpp
+	<queue>
+	<algorithm>
+	<iostream>
+	<cstdio>
+	<cstring>
+

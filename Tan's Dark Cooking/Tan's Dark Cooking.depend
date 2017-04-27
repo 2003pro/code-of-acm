@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1464624585 source:g:\acm\tan's dark cooking\main.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+

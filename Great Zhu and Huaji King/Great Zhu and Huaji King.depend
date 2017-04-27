@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462803837 source:g:\acm\great zhu and huaji king\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<set>
+

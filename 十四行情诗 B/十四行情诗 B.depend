@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479121721 source:g:\acm\十四行情诗 b\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+

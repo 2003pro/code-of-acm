@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453114497 source:g:\acm\counting words\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

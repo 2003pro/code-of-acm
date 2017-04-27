@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465405077 source:g:\acm\cf 356 bear and five cards\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

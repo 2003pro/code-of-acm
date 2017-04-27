@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453453226 source:g:\acm\我的格式我做主\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

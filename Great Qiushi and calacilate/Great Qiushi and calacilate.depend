@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1461217260 source:g:\acm\great qiushi and calacilate\main.cpp
+	<iostream>
+	<stack>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+

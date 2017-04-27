@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1468829688 source:g:\acm\summer training day 7 a\main.cpp
+	<iostream>
+	<map>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<vector>
+	<algorithm>
+	<string>
+

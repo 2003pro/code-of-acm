@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453273029 source:g:\acm\monkeys' voting for king\main.cpp
+	<iostream>
+	<cstdio>
+

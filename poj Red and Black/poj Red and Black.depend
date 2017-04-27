@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1468634642 source:g:\acm\poj red and black\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

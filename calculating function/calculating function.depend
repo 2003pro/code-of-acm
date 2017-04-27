@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453102946 source:g:\acm\calculating function\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+

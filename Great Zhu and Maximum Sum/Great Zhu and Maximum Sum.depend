@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462456538 source:g:\acm\great zhu and maximum sum\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<queue>
+

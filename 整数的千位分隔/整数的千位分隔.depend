@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453429271 source:g:\acm\整数的千位分隔\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

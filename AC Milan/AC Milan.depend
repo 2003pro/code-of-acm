@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1458377343 source:g:\acm\ac milan\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<algorithm>
+	<cstring>
+

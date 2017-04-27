@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449909895 source:g:\acm\人民币的构造\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1442067846 source:g:\acm\linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"basicfunc.h"
+
+1442067819 g:\acm\linked list\basicfunc.h
+

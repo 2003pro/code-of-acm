@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1468733997 source:g:\acm\poj 3617 best cow line\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

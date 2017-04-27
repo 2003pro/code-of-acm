@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453275995 source:g:\acm\exam\main.cpp
+	<iostream>
+	<cstdio>
+

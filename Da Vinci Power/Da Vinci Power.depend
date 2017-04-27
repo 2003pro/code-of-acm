@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1459529513 source:g:\acm\da vinci power\main.cpp
+	<cstdio>
+	<iostream>
+

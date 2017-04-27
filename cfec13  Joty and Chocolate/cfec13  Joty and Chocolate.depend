@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465839917 source:g:\acm\cfec13  joty and chocolate\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

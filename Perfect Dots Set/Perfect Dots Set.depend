@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1465204913 source:g:\acm\perfect dots set\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cmath>
+

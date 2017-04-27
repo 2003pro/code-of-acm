@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453101692 source:g:\acm\raising bacteria\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+

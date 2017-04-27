@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1453080081 source:g:\acm\rotater\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cmath>
+

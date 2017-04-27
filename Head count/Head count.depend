@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463810815 source:g:\acm\head count\main.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+

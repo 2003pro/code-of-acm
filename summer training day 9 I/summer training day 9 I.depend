@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1468993047 source:g:\acm\summer training day 9 i\main.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<cstdlib>
+	<algorithm>
+

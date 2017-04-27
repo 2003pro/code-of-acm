@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1462246581 source:g:\acm\acm contest scoring\main.cpp
+	<iostream>
+	<set>
+	<algorithm>
+	<cstdio>
+	<string>
+	<cstring>
+

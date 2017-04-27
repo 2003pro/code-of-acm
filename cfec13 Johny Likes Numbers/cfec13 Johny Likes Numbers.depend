@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465834966 source:g:\acm\cfec13 johny likes numbers\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

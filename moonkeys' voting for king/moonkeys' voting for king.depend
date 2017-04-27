@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453268194 source:g:\acm\moonkeys' voting for king\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+

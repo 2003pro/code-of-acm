@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1463821163 source:g:\acm\simphson intergal\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cmath>
+

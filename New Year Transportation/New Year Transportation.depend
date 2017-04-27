@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453349127 source:g:\acm\new year transportation\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1461778766 source:g:\acm\senior qin and magic\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<set>
+

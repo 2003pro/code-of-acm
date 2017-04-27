@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1465227036 source:g:\acm\careless tan\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cmath>
+

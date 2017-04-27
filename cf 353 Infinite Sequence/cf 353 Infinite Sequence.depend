@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463418242 source:g:\acm\cf 353 infinite sequence\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

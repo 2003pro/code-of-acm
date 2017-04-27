@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1465029594 source:g:\acm\a rational sequence\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<algorithm>
+	<cstring>
+	<queue>
+	<map>
+

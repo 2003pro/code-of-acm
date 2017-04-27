@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1461088820 source:g:\acm\great qiushi and calculate\main.cpp
+	<iostream>
+	<stack>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<queue>
+

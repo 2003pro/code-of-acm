@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1463064952 source:g:\acm\great zhu's robbing\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<climits>
+

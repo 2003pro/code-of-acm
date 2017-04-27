@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462896676 source:g:\acm\great zhu and matrix\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+

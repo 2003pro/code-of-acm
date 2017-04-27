@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1464178828 source:g:\acm\captain wu's marriage seeking\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<set>
+	<queue>
+	<vector>
+	<cstdlib>
+	<algorithm>
+

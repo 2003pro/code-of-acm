@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1468207882 source:g:\acm\ alyona and mex\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+

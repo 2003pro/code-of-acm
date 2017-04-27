@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461299304 source:g:\acm\senior qin and basic rules\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

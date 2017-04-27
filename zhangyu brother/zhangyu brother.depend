@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450600546 source:g:\acm\zhangyu brother\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

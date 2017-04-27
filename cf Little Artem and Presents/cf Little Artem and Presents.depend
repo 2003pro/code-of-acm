@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461518932 source:g:\acm\cf little artem and presents\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453374501 source:g:\acm\new year permutation\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+

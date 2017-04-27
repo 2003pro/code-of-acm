@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1463919215 source:g:\acm\xiper's wonderful adventure 2\main.cpp
+	<fstream>
+	<iostream>
+	<cstdio>
+	<vector>
+	<cstdlib>
+	<cstring>
+	<algorithm>
+	<queue>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1464835014 source:g:\acm\cf 355 vanya and food processor\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+

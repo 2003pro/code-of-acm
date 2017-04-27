@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1466424655 source:g:\acm\today's news's interview\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<algorithm>
+

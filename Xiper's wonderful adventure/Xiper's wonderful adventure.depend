@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1463296012 source:g:\acm\xiper's wonderful adventure\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<string>
+	<algorithm>
+

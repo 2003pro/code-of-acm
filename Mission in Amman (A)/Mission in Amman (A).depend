@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1468218397 source:g:\acm\mission in amman (a)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463756892 source:g:\acm\tan's cutting cloth\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

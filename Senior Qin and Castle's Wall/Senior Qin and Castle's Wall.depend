@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1461396688 source:g:\acm\senior qin and castle's wall\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+

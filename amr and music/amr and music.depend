@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453289770 source:g:\acm\amr and music\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+

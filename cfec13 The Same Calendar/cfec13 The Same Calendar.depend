@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465838910 source:g:\acm\cfec13 the same calendar\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

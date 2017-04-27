@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453090255 source:g:\acm\cube and pyramid\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+

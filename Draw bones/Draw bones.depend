@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463816406 source:g:\acm\draw bones\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

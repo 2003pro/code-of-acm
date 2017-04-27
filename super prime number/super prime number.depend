@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450598565 source:g:\acm\super prime number\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

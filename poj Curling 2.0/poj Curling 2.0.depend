@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1468731824 source:g:\acm\poj curling 2.0\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

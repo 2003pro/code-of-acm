@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1453805190 source:g:\acm\maya calendar\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<string>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1464087504 source:g:\acm\simple bidirectional search\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<set>
+	<queue>
+	<vector>
+	<cstdlib>
+	<algorithm>
+

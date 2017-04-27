@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449133808 source:g:\acm\haihi\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

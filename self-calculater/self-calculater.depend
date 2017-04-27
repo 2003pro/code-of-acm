@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459512476 source:g:\acm\self-calculater\main.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+

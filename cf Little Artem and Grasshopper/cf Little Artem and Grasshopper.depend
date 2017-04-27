@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1461520960 source:g:\acm\cf little artem and grasshopper\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<string>
+

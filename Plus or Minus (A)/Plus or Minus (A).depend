@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1468257971 source:g:\acm\plus or minus (a)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+

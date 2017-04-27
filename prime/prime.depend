@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450598155 source:g:\acm\prime\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1464799439 source:g:\acm\cf 355 vanya and fence\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

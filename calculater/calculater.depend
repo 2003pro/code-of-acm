@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1453632254 source:g:\acm\calculater\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+

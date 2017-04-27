@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453383327 source:g:\acm\vanya and lanterns\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

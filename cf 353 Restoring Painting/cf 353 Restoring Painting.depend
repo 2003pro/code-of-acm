@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463421361 source:g:\acm\cf 353 restoring painting\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

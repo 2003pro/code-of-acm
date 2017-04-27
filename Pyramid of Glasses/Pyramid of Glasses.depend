@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1464788375 source:g:\acm\pyramid of glasses\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

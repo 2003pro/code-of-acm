@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1465407605 source:g:\acm\cf 356 bear and finding criminals\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+

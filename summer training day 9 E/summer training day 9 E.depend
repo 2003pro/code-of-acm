@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1468995788 source:g:\acm\summer training day 9 e\main.cpp
+	<list>
+	<map>
+	<set>
+	<deque>
+	<stack>
+	<bitset>
+	<algorithm>
+	<functional>
+	<numeric>
+	<utility>
+	<sstream>
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
